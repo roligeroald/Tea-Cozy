@@ -10,6 +10,9 @@ h2, h3, h4{
   margin: 0;
   padding: 10px;
 }
+
+/*header section */
+
 .header{
   display: flex;
   justify-content: space-between;
@@ -33,6 +36,9 @@ nav span a{
   margin: 0 10px;
   padding-right: 10px;
 }
+
+/*main section */
+
 .main-content{
   display: flex;
   align-items: center;
@@ -42,6 +48,9 @@ nav span a{
   margin: 0 auto;
   padding-top: 69px;
 }
+
+/*mission*/
+
 #mission{
   height: 700px;
   display: flex;
@@ -53,6 +62,9 @@ nav span a{
   background-color: black;
   width: 1200px;
 }
+
+/*shop*/
+
 .shop{
   display: flex;
   justify-content: center;
@@ -75,6 +87,9 @@ nav span a{
   width: 300px;
   padding: 10px;
 }
+
+/*locations*/
+
 #locations{
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
   width: 1200px;
@@ -106,6 +121,9 @@ nav span a{
   justify-content: space-around;
   align-items: center;
 }
+
+/*contact and footer sections */
+
 .contact{
   height: 200px;
 }
